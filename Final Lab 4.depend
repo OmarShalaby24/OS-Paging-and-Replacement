@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609721678 source:/home/omar/Desktop/Final Lab 4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
